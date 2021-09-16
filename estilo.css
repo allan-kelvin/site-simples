@@ -1,0 +1,109 @@
+body{
+	background: url(images/background.jpg);
+	width: 920px;
+	margin: 0 auto;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+
+#logo{
+ display: flex;
+}
+
+#menu{
+	background:white;
+	padding:10px; 
+	text-align: right;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+
+}
+p{
+	font-family: arial, sans-serif;
+}
+
+ul li{
+	font-family: arial, sans-serif;
+}
+
+#banner{
+		width: 920px;
+}
+
+#conteudo{
+		background: white;
+		padding: 70px;
+		font-family: ;
+		justify-content: space-between;
+}
+
+#produtos{
+	background: #F2F2F2;
+	padding: 50px;
+
+}
+
+#prod{
+	display: flex;
+
+}
+
+.prod{
+	margin: 20px;
+}
+.text{
+	height: 270px;
+	padding-left: 80px;
+	color: #ffffff;
+}
+
+.prod img{
+	border-radius: 50%;	
+	border: 8px solid red;
+}
+
+#mapa{
+	background: red;
+	padding: 80px;
+	color: white;
+	display: flex;
+}
+#texto-mapa{
+	display: flex;
+}
+
+#contato{
+
+	background: white;
+	color: black;
+	font-family: ;
+	padding: 50px;
+
+}
+
+.flex{
+	display: flex;
+	justify-content: space-between;
+}
+.align{
+	text-align: right;
+
+}
+
+#img-contato{
+	display: flex;
+}
+
+#rodape{
+	background: red;
+	text-align: center;
+	color: white;
+	margin: 2px;
+	padding: 1px;
+
+}
